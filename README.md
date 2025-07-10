@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0054-spiral-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
