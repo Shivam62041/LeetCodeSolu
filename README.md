@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0037-sudoku-solver) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0037-sudoku-solver) |
 ## Backtracking
 |  |
