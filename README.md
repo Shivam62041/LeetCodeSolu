@@ -82,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0113-path-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
