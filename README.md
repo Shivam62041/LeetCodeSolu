@@ -62,4 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0090-subsets-ii) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
