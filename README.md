@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0141-linked-list-cycle) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0070-climbing-stairs) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
