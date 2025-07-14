@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0137-single-number-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0070-climbing-stairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
