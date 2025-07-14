@@ -80,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0070-climbing-stairs) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
