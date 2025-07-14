@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0435-non-overlapping-intervals) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Greedy
@@ -108,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0070-climbing-stairs) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
