@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0070-climbing-stairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
