@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0160-intersection-of-two-linked-lists) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0160-intersection-of-two-linked-lists) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
