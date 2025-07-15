@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0125-valid-palindrome) |
+| [3396-valid-word](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3396-valid-word) |
 ## Memoization
 |  |
 | ------- |
