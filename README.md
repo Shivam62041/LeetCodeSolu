@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0125-valid-palindrome) |
 | [3396-valid-word](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3396-valid-word) |
 ## Memoization
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search
 |  |
