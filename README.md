@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0435-non-overlapping-intervals) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3639-zero-array-transformation-i](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
