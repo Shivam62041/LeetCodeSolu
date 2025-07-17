@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0435-non-overlapping-intervals) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2915-count-of-interesting-subarrays](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2915-count-of-interesting-subarrays) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0160-intersection-of-two-linked-lists) |
+| [2915-count-of-interesting-subarrays](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2915-count-of-interesting-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2915-count-of-interesting-subarrays](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3639-zero-array-transformation-i) |
 ## Trie
 |  |
