@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0070-climbing-stairs) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
