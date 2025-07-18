@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0141-linked-list-cycle) |
