@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0056-merge-intervals) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0141-linked-list-cycle) |
