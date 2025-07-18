@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0435-non-overlapping-intervals) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2915-count-of-interesting-subarrays) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0435-non-overlapping-intervals) |
 | [1250-longest-common-subsequence](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1250-longest-common-subsequence) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Greedy
 |  |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0076-minimum-window-substring) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 <!---LeetCode Topics End-->
