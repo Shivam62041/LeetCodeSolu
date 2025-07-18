@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0056-merge-intervals) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0113-path-sum-ii) |
 ## Matrix
