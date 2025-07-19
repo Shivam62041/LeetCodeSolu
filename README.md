@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0435-non-overlapping-intervals) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2915-count-of-interesting-subarrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0337-house-robber-iii) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0139-word-break) |
 | [1250-longest-common-subsequence](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3396-valid-word](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3396-valid-word) |
 ## Memoization
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0139-word-break) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Combinatorics
 |  |
 | ------- |
