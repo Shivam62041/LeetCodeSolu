@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0076-minimum-window-substring) |
