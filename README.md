@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0435-non-overlapping-intervals) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2915-count-of-interesting-subarrays) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0160-intersection-of-two-linked-lists) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2915-count-of-interesting-subarrays) |
 ## Backtracking
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0139-word-break) |
 | [1250-longest-common-subsequence](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3396-valid-word](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3396-valid-word) |
 ## Memoization
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0139-word-break) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Combinatorics
 |  |
 | ------- |
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
