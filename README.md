@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0155-min-stack) |
 ## Binary Search
 |  |
 | ------- |
@@ -267,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0133-clone-graph) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
