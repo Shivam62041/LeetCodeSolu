@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0143-reorder-list) |
 ## Simulation
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0165-compare-version-numbers) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0155-min-stack) |
 ## Binary Search
 |  |
