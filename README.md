@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2915-count-of-interesting-subarrays) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0137-single-number-ii) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Tree
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0337-house-robber-iii) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0337-house-robber-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
