@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0222-count-complete-tree-nodes) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Tree
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0337-house-robber-iii) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0337-house-robber-iii) |
 ## Two Pointers
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
