@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0222-count-complete-tree-nodes) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Tree
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0190-reverse-bits) |
 ## Merge Sort
 |  |
 | ------- |
