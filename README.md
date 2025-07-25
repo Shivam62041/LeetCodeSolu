@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2915-count-of-interesting-subarrays) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3639-zero-array-transformation-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2915-count-of-interesting-subarrays) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0435-non-overlapping-intervals) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
