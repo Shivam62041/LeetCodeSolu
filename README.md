@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3639-zero-array-transformation-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3639-zero-array-transformation-i) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Trie
 |  |
 | ------- |
@@ -319,4 +321,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0155-min-stack) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Enumeration
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
