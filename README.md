@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3639-zero-array-transformation-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0222-count-complete-tree-nodes) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -325,8 +327,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3791-fruits-into-baskets-iii) |
 ## Enumeration
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Ordered Set
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
