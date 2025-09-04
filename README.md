@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0056-merge-intervals) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0063-unique-paths-ii) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0191-number-of-1-bits) |
