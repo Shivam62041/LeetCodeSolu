@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0219-contains-duplicate-ii) |
 | [1813-maximum-erasure-value](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1813-maximum-erasure-value) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Shivam62041/LeetCodeSolu/tree/master/0166-fraction-to-recurring-decimal) |
 | [1250-longest-common-subsequence](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivam62041/LeetCodeSolu/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Shivam62041/LeetCodeSolu/tree/master/2079-delete-duplicate-folders-in-system) |
